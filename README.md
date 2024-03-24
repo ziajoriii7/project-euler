@@ -6,7 +6,7 @@
 ## objectives
 
 
-- Perform Complexity Analysis if Algorithms:
+- Perform Complexity Analysis of Algorithms:
   - Detailed Time
   - Asymptotic Time
 
